@@ -40,12 +40,12 @@
 - Transformation
 
 ## Reinforcement Learning 强化学习
-** Focus more on understanding, then choosing one of the sub-areas you have some interests, DIVE INTO IT!
+**Focus more on understanding, then choosing one of the sub-areas you have some interests, DIVE INTO IT!**
 
 - [入门tutorial spinningup](https://spinningup.openai.com/en/latest/)
-- [李宏毅 DRL]课程(https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
+- [李宏毅 DRL课程](https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
 
-**Once you get through them, you get into the Deep reinforcement learning.**
+Once you get through them, you get into the Deep reinforcement learning.
 
 ### Multi Agent Reinforcement Learning 多智能体强化学习
 
