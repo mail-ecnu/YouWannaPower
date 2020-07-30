@@ -1,15 +1,16 @@
 # 你渴望力量吗年轻人
 
+## 数学基础
+- [李宏毅 线性代数](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)
+- [Boyd 凸优化](https://www.bilibili.com/video/BV1iW411U7GF?from=search&seid=3670242072718743569)
+- [《常微分方法》(选修)](https://www.bilibili.com/video/BV1bx411s7pb?from=search&seid=18075226513527190717)
+
 ## Machine Learning 机器学习基础
 
 - [李宏毅 机器学习+深度学习](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
-- [李宏毅 线性代数](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)
 - [周志华《机器学习》](https://www.bilibili.com/video/BV1wx411o7CK?p=1)
-- 李航《统计学习方法》
-- [Boyd 凸优化](https://www.bilibili.com/video/BV1iW411U7GF?from=search&seid=3670242072718743569)
-- (选)《常微分方法》
 - [《邱锡鹏 深度学习》](https://github.com/nndl/nndl.github.io)
-
+- 李航《统计学习方法》（选修）
 **Personally, I recommend hongyi Li for learning.**
 
 
