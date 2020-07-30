@@ -9,7 +9,7 @@
 
 - [《机器学习&深度学习》（李宏毅）](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
 - [《机器学习》（周志华）](https://www.bilibili.com/video/BV1wx411o7CK?p=1)
-- [《深度学习》](https://github.com/nndl/nndl.github.io)
+- [《神经网络与深度学习》（邱锡鹏）](https://github.com/nndl/nndl.github.io)
 - 李航《统计学习方法》（选修）
 **Personally, I recommend hongyi Li for learning.**
 
